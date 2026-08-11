@@ -1,0 +1,6 @@
+[submodule "Modulo-1/floresta-misteriosa"]
+	path = Modulo-1/floresta-misteriosa
+	url = git@github.com:jonatasoli/floresta-misteriosa.git
+[submodule "Modulo-2/jogo-da-adivinhacao"]
+	path = Modulo-2/jogo-da-adivinhacao
+	url = git@github.com:jonatasoli/jogo-da-adivinhacao.git
